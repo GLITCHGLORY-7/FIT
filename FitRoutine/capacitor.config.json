@@ -1,0 +1,6 @@
+{
+  "appId": "com.fitroutine.app",
+  "appName": "FitRoutine",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
